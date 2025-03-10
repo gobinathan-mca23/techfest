@@ -135,6 +135,23 @@ const Footer = () => {
             </li>
           </ul>
         </div>
+        <div className="p-5 text-center sm:w-3/12">
+          <div className="text-sm uppercase text-accent font-bold mb-4">Disciplinary Team</div>
+          <ul className='text-sm'>
+            <li className="my-2">
+              <p className="" >Dharneesh</p>
+              <a className="hover:text-accent" href="tel:6380826876">6380826876</a>
+            </li>
+            <li className="my-2">
+              <p className="" >Srinath </p>
+              <a className="hover:text-accent" href="tel:6369878483">6369878483</a>
+            </li>
+            <li className="my-2">
+              <p className="" >Sooraj </p>
+              <a className="hover:text-accent" href="tel:6383723551">6383723551</a>
+            </li>
+          </ul>
+        </div>
       </div>
       <div className="flex py-5 m-auto text-dimWhite text-sm flex-col items-center border-t max-w-screen-xl border-white">
         <div className="my-2 text-center leading-6">Developed & Designed by<br /><span className='text-accent'> Gobinathan🤍 <span className='text-white'></span> <a href='http://sanjith-portfolio.netlify.app' className='hover:text-white' rel="noreferrer" target='_blank'> </a><span className='text-white'></span> </span></div>
