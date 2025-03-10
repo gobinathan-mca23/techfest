@@ -130,8 +130,8 @@ const Footer = () => {
               <a className="hover:text-accent" href="tel:9500682535">9500682535</a>
             </li>
             <li className="my-2">
-              <p className="" >Gobinathan </p>
-              <a className="hover:text-accent" href="tel:7010037147">7010037147</a>
+              <p className="" >Divyadharshini</p>
+              <a className="hover:text-accent" href="tel:9363356784">9363356784</a>
             </li>
           </ul>
         </div>
