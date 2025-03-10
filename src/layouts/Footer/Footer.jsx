@@ -154,7 +154,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="flex py-5 m-auto text-dimWhite text-sm flex-col items-center border-t max-w-screen-xl border-white">
-        <div className="my-2 text-center leading-6">Developed & Designed by<br /><span className='text-accent'> Gobinathan🤍 <span className='text-white'></span> <a href='http://sanjith-portfolio.netlify.app' className='hover:text-white' rel="noreferrer" target='_blank'> </a><span className='text-white'></span> </span></div>
+      <div className="my-2 text-center leading-6">Designed by<br /><span className='text-accent'><span className='text-white'></span> <a href='https://www.instagram.com/idealgobi/' className='hover:text-white' rel="noreferrer" target='_blank'> Gobinathan🤍</a><span className='text-white'></span> </span></div>
       </div>
     </section>
   )
