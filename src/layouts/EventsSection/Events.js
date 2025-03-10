@@ -191,7 +191,7 @@ export const eventsDet = [
     info: "gobinathan2003@gmail.com",
     name: {
       faculty: ["Prof. Saranya N", "Prof. Dhanalakshmi S"], 
-      student: ["SRIRAM - 6385219174", "DHARANYA - 9384497425"]
+      student: ["SRIRAM - 6385219174", "DHARNEESH - 6380826876"]
     }
   },
 },
@@ -226,7 +226,7 @@ export const eventsDet = [
     contact: {
       name: {
         faculty: ["Prof. Abinaya", "Prof. Suganya Devi C R"], 
-        student: ["Anne Rubitha - 9500590391", "KAVYA - 9566959874"]
+        student: ["Anne Rubita - 9500590391", "KAVYA - 9566959874"]
       },
       info: "bitvprayukti@bitsathy.ac.in"
     }
